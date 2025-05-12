@@ -1,0 +1,8 @@
+body{background-color: #5596CE;}
+h1{color: #A3C732; font-family: Arial; font-size: 60px; text-align: center;}
+p{color: #F2F2F2; font-family: Arial; font-size: 18px; text-align: center;}
+img{border-style: solid;border-width: 5px; border-color: #A3C732; display: block; margin: auto;}
+a{text-decoration: none; font-family: Arial; font-size: 24px; color: #F2F2F2; padding: 20px;}
+a:hover{color: #A3C732; font-size: 32px;}
+li{list-style: none; display: inline;}
+ul{text-align: center;}
